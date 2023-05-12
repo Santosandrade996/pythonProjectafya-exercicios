@@ -1,2 +1,2 @@
 # pythonProjectafya-exercicios
-Exercícios desenvolvidos na máteria de Pratica de programação de sistema da informação no Terceiro período na faculdade UNIGRANRIO- AFYA
+Exercícios desenvolvidos na máteria de pratica de programação de sistema da informação no terceiro período na faculdade UNIGRANRIO- AFYA
